@@ -1,0 +1,43 @@
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\bin\Debug\AOE(Accounting of Employees).exe.config
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\bin\Debug\AOE(Accounting of Employees).exe
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\bin\Debug\AOE(Accounting of Employees).pdb
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).csprojAssemblyReference.cache
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE_Accounting_of_Employees_.Properties.Resources.resources
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).csproj.GenerateResource.cache
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).csproj.CoreCompileInputs.cache
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).exe
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).pdb
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\bin\Debug\MySql.Data.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\bin\Debug\Google.Protobuf.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\bin\Debug\MySql.Data.xml
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).csproj.CopyComplete
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE_Accounting_of_Employees_.Add.resources
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE_Accounting_of_Employees_.Main.resources
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\obj\Debug\AOE_Accounting_of_Employees_.Edit.resources
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\bin\Debug\PagedList.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\AOE(Accounting of Employees)\bin\Debug\PagedList.xml
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\AOE(Accounting of Employees).exe.config
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\AOE(Accounting of Employees).exe
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\AOE(Accounting of Employees).pdb
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\MySql.Data.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\PagedList.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\Google.Protobuf.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\MySql.Data.xml
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\PagedList.xml
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).csprojAssemblyReference.cache
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\obj\Debug\AOE_Accounting_of_Employees_.Add.resources
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\obj\Debug\AOE_Accounting_of_Employees_.Main.resources
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\obj\Debug\AOE_Accounting_of_Employees_.Properties.Resources.resources
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).csproj.GenerateResource.cache
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).csproj.CoreCompileInputs.cache
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).csproj.CopyComplete
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).exe
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\obj\Debug\AOE(Accounting of Employees).pdb
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\System.Security.AccessControl.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\System.Security.Permissions.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\System.Security.AccessControl.xml
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\System.Security.Permissions.xml
+C:\Users\shahdiyor\Desktop\WSR\07.10\AOE(Accounting of Employees)\Accounting_of_employeer_DB\AOE(Accounting of Employees)\bin\Debug\System.Security.Principal.Windows.xml
